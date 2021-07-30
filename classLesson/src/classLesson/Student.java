@@ -91,12 +91,11 @@ public class Student {
 	}
 	//check max function:
 	public Course checkMax() {
-		// assume first grade is the largest 
 		int index =0;
-		Course maxGrade =courselst.get(0);
-		 for ( int i = 0; i < courselst.size(); i++ ) 
-			 if(courselst.get(i) > maxGrade) {
-				 maxGrade=courselst.get(i);
+		int maxGrade =gradeslst.get(0);
+		 for ( int i = 0; i < gradeslst.size(); i++ ) 
+			 if(gradeslst.get(i) > maxGrade) {
+				 maxGrade=gradeslst.get(i);
 				 index =i; 
 			 }
 			 return courselst.get(index);
