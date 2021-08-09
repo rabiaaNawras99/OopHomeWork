@@ -1,5 +1,6 @@
 package Ex5Messages;
 import java.util.Scanner;
+
 public class Question {
 Scanner scanner = null;
 	

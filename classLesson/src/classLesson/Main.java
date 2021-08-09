@@ -4,7 +4,7 @@ public class Main {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		
+		/*
 		//create 5 courses:
 		Course math1 =new Course();
 		Course math2 =new Course();
@@ -16,7 +16,7 @@ public class Main {
 		Student stud2= new Student("98765", "AnotherCoolStudent");
 		
 		System.err.println(math1.toString());
-		
+		*/
 
 	}
 
