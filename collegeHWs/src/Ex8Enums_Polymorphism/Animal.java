@@ -1,4 +1,4 @@
-package Ex8Enums;
+package Ex8Enums_Polymorphism;
 
 public class Animal {
 	protected String name;
